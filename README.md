@@ -7,9 +7,9 @@ p5.js sketches using ideas and templates from [Nature of Code](https://natureofc
 
 ## Autonomous Agents
 
-![GIF of Autonomous Agents Sketch]()
+![GIF of Autonomous Agents Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Documentation/agent.gif)
 
-The [Sketch]()
+The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Autonomous%20Agents/White-sketch-AA.js)
 
 ### About
 
@@ -17,31 +17,24 @@ The [Sketch]()
 
 ### Additional files:
 
-[]()
+[Path](https://github.com/njw275/Decoding-Nature/blob/master/Autonomous%20Agents/White-path-AA.jsl)
 
-[]()
+[Vehicle](https://github.com/njw275/Decoding-Nature/blob/master/Autonomous%20Agents/White-vehicle-AA.js)
 
 ## Sound
 
 ![Video of Sound Sketch]()
 
-The [Sketch]()
+The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/p5-Sound/sketch.js)
 
 ### About
 
-
-
-### Additional files:
-
-[]()
-
-[]()
 
 ## Cellular Automata
 
 ![GIF of Cellular Automata Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Documentation/minesweeper.gif)
 
-The [Sketch]()
+The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Cellular%20Automata/Nick-CA-sketch.js)
 
 ### About
 
@@ -49,9 +42,9 @@ The [Sketch]()
 
 ### Additional files:
 
-[]()
+[Cell](https://github.com/njw275/Decoding-Nature/blob/master/Cellular%20Automata/Nick-CA-Cell.js)
 
-[]()
+[Game of Lie](https://github.com/njw275/Decoding-Nature/blob/master/Cellular%20Automata/Nick-CA-GOL.js)
 
 
 ## Particle Systems
