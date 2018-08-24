@@ -30,7 +30,7 @@ Collect the particles on the screen with your mouse before the time runs out! Th
 
 ## L System
 
-![GIF of L System Sketch]()
+![GIF of L System Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Documentation/grid.gif)
 
 The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/LSystem/LWhite-sketch.js)
 
