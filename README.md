@@ -7,9 +7,52 @@ p5.js sketches using ideas and templates from [Nature of Code](https://natureofc
 
 ## Autonomous Agents
 
+![GIF of Autonomous Agents Sketch]()
+
+The [Sketch]()
+
+### About
+
+
+
+### Additional files:
+
+[]()
+
+[]()
+
 ## Sound
 
+![Video of Sound Sketch]()
+
+The [Sketch]()
+
+### About
+
+
+
+### Additional files:
+
+[]()
+
+[]()
+
 ## Cellular Automata
+
+![GIF of Cellular Automata Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Documentation/minesweeper.gif)
+
+The [Sketch]()
+
+### About
+
+
+
+### Additional files:
+
+[]()
+
+[]()
+
 
 ## Particle Systems
 
