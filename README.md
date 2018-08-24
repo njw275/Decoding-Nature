@@ -11,6 +11,8 @@ p5 experimental work
 
 ## Particle Systems
 
+![GIF of Particle System Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Documentation/ezgif.com-video-to-gif.gif)
+
 ## L System
 
 
