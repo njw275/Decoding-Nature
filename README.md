@@ -13,7 +13,7 @@ The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Autonomous%20
 
 ### About
 
-
+This sketch shows a vehicle, in this case a car, with a steering force. The car is trying to find its end point, and with a low max force the car reaches its parking spot. 
 
 ### Additional files:
 
@@ -23,7 +23,7 @@ The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Autonomous%20
 
 ## Sound
 
-![GIF of Sounds Sketch]()
+![GIF of Sounds Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Documentation/soundGIF.gif)
 
 [p5 Sound Experiment Video](https://vimeo.com/286714860)
 
@@ -31,6 +31,7 @@ The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/p5-Sound/sket
 
 ### About
 
+This sketch shows the use of the p5 sound library to alter the music, here Chance the Rapper's "Acid Rain". In addition to the music, the sketch displays a sine wave of ellipse's that changes its height corresponding to the pitch of the song.
 
 ## Cellular Automata
 
@@ -40,7 +41,7 @@ The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Cellular%20Au
 
 ### About
 
-
+Here, I created a game of minesweeper where the bombs are placed before the game using the rules of the Game of Life. 
 
 ### Additional files:
 
