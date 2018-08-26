@@ -23,7 +23,9 @@ The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/Autonomous%20
 
 ## Sound
 
-![Video of Sound Sketch]()
+![GIF of Sounds Sketch]()
+
+[p5 Sound Experiment Video](https://vimeo.com/286714860)
 
 The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/p5-Sound/sketch.js)
 
