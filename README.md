@@ -31,7 +31,7 @@ The [Sketch](https://github.com/njw275/Decoding-Nature/blob/master/p5-Sound/sket
 
 ### About
 
-This sketch shows the use of the p5 sound library to alter the music, here Chance the Rapper's "Acid Rain". In addition to the music, the sketch displays a sine wave of ellipse's that changes its height corresponding to the pitch of the song.
+This sketch shows the use of the p5 sound library to alter the music, here Chance the Rapper's "Acid Rain". In addition to the music, the sketch displays a sine wave of ellipses that changes its height corresponding to the pitch of the song.
 
 ## Cellular Automata
 
